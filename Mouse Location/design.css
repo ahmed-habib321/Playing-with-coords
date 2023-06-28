@@ -1,0 +1,10 @@
+html,
+body {
+  margin: 0;
+}
+
+#space {
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+}
